@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod u+x where_am_i.sh
+pwd >> 0-current_working_directory
+chmod u+x 0-current_working_directory
