@@ -1,0 +1,1 @@
+As part of the curriculum in the ALX Software Engineering Devops topics, I am currently learning Shell, I/O Redirections and filters. I would be updating this directory with my solutions to the tasks.
