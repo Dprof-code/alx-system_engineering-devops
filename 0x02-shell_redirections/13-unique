@@ -1,2 +1,2 @@
 #!/bin/bash
-cat > List | sort | uniq
+read -a list | cat | sort | uniq
